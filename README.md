@@ -1,8 +1,8 @@
-
-
 # About the Project
 ## Expense360
 Expense360 is a full interactive UI web application built with React. This Web Application includes a bar graph of every month which visually represent the amount of expense. You can use this front end to connect it with you back-end API to make a full stack fully responsive web application.
+### Preview
+https://expense360.netlify.app
 
 ## Features
 #### Fully Responsive 
